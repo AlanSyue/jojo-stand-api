@@ -20,5 +20,38 @@
         "sustainability": "A",
         "precision": "D",
         "growth": "E"    
+    },
+    "2": {
+        "english_name": "Magician's Red",
+        "chinese_name": "紅色魔術師",
+        "master": "穆罕默德·阿布德爾",
+        "power": "B",
+        "speed": "B",
+        "range": "C",
+        "sustainability": "B",
+        "precision": "C",
+        "growth": "D"
+    },
+    "3": {
+        "english_name": "Hierophant Green",
+        "chinese_name": "綠色法皇",
+        "master": "花京院典明",
+        "power": "C",
+        "speed": "B",
+        "range": "A",
+        "sustainability": "B",
+        "precision": "C",
+        "growth": "D"
+    },
+    "4": {
+        "english_name": "Silver Chariot",
+        "chinese_name": "銀色戰車",
+        "master": "J·P·波魯那雷夫",
+        "power": "C",
+        "speed": "A",
+        "range": "C",
+        "sustainability": "B",
+        "precision": "B",
+        "growth": "C"
     }
 }
