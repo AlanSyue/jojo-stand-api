@@ -1,0 +1,24 @@
+{
+    "0" : {
+        "english_name": "Star Platinum",
+        "chinese_name": "白金之星",
+        "master": "空條承太郎",
+        "power": "A",
+        "speed": "A",
+        "range": "C",
+        "sustainability": "A",
+        "precision": "A",
+        "growth": "A"
+    },
+    "1" : {
+        "english_name": "Hermit Purple",
+        "chinese_name": "紫色隱者",
+        "master": "喬瑟夫·喬斯達",
+        "power": "D",
+        "speed": "C",
+        "range": "D",
+        "sustainability": "A",
+        "precision": "D",
+        "growth": "E"    
+    }
+}
